@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/3WHtKPp/Covid-19-Tracker-React.png" alt="Covid-19-Tracker-React" border="0">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made partially following tutorials, documentation and bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
